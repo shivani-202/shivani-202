@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivani-202
 - 👀 I’m interested in music, fitness and reading
 - 🌱 I’m currently learning android development 
-- 📫 How to reach me shivanis1273@gmail.com
+- 📫 How to reach me vanis131203@gmail.com
 
 <!---
 shivani-202/shivani-202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
