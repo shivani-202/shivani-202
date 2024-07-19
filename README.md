@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivani-202
 - 👀 I’m interested in music, fitness and reading
-- 🌱 I’m currently learning android development 
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me shivanis1273@gmail.com 
 
 <!---
